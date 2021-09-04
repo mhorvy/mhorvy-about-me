@@ -16,4 +16,4 @@ https://mhorvy.github.io/mhorvy-about-me/
 
 ## Screenshot
 
-![Screenshot](assets\images\screenshot.JPG)
+[Screenshot](assets\images\screenshot.JPG)
