@@ -121,6 +121,17 @@ main {
   background-size: 100%;
 }
 
+.parksfinder-link {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  background-image: url(../assets/images/parksfinder.JPG);
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 250px;
+  background-size: 100%;
+}
+
 
 a {
   color: #39a6b2;
